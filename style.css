@@ -1,0 +1,163 @@
+#rightCorner
+{
+    float:right;
+    color:blueviolet;
+}
+
+#rightCorner>p
+{
+    display:inline;
+    padding-right: 10px;
+    font-family: sans-serif;
+    font-size:10pt;
+}
+
+#below
+{
+    position: absolute;
+    top: 120px;
+    left: 200px;
+    width: 600px;
+    font-family: sans-serif;
+    margin-left: 10px  
+}
+
+#innerBelo1
+{
+    font-weight: bold;
+    font-size:16pt;
+}
+
+#secBel
+{
+    font-size:17pt;
+}
+
+#beside
+{
+    position: absolute;
+    top: 80px;
+    right: 170px;
+    width: 350px;
+    height: 540px;
+    border-top: 3px solid #214CC6;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+#img2
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 18px;
+}
+
+#sign
+{
+    text-align: center;
+    font-family: sans-serif;
+    font-size:14pt;
+    font-weight: 400;
+    padding-top:10px
+}
+
+input[type="email"]
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    padding-top:17px;
+    font-size:12pt;
+    border: transparent;
+    border-bottom: 1px solid gray;
+}
+
+input[type="button"]
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    width: 300px;
+    height: 40px;
+    font-size:12pt;
+    background-color: #33A5FF;
+    color: white;
+    border: transparent;
+}
+
+#inside
+{
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+}
+
+.insidediv
+{
+    display: inline;
+    color:#33A5FF;
+    font-family: sans-serif;
+    font-size:10pt;
+}
+
+#besideimg2
+{
+    position: absolute;
+    right:20px
+}
+
+#bottom
+{
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    margin-bottom:20px;
+    position: absolute;
+    bottom:5px;
+}
+
+#bottom>p
+{
+    display: inline;
+    font-family: sans-serif;
+}
+
+#bott1
+{
+    position: absolute;
+    left: 60px;
+}
+
+#bott2
+{
+    position: absolute;
+    left: 240px;
+    color:#33A5FF;
+}
+
+#foot
+{
+    position:absolute;
+    bottom: 5px;
+    margin-left:650px;
+}
+
+#foot>p
+{
+    display: inline;
+    font-size: 7.5pt;
+    font-family:sans-serif;
+}
+
+#foot #t,#foot #p
+{
+    color:#33A5FF;
+}
